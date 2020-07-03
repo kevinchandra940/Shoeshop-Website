@@ -1,0 +1,3 @@
+1. bikin navbar => Home, category, profile, icon cart
+2. carousel => localhost:2000/slider => component
+3. https://react-slick.neostack.com/ => carousel
