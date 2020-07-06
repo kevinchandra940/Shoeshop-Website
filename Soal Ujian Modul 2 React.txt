@@ -1,0 +1,27 @@
+Ujian KEVIN Modul 2 React. Shoes Development
+
+
+5 soal
+
+
+1. helper text disaat input register dan login sudah exist atau memenuhi character
+get udah
+fungsi udah
+helpertext belom
+
+2-3 tombol detail di history transaction untuk mengetahui info product yang dibeli per user + sorting
+tombol detail udah
+dialog belom
+sorting udah
+fungsi sorting belom
+
+4. pop over pada cart. tambahan button "Go to cart"
+pop over udah
+isi dari cart user udah
+button cart udah
+
+5. tombol edit dan delete pada user cart
+tombol edit dan delete udah
+fungsi delete udah
+fungsi edit belom
+ 

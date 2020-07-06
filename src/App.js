@@ -21,6 +21,8 @@ import UserCart from './pages/userCart'
 import HistoryUser from './pages/historyuser'
 import HistoryTransaction from './pages/historytransaction'
 import NotFound from './pages/404'
+import UserProfile from './pages/userProfile'
+import Wishlist from './pages/wishlist'
 
 class App extends React.Component {
     componentDidMount() {
@@ -46,6 +48,8 @@ class App extends React.Component {
                 <Route path='/historyuser' component={HistoryUser}/>
                 <Route path='/historytransaction' component={HistoryTransaction}/>
                 <Route path='/notfound' component={NotFound}/>
+                <Route path='/profile' component={UserProfile}/>
+                <Route path='/wishlist' component={Wishlist}/>
                 <Footer />
             </div>
         )

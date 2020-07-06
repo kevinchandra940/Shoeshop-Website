@@ -17,14 +17,17 @@ import {
 } from '@material-ui/core'
 
 import { Login } from '../redux/action'
+import { Redirect } from "react-router-dom";
 
 class UserCart extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
             dbCart: [],
+            toHome: false,
             selectedID: null,
-            alert: false
+            alert: false,
+            count: 0,
         }
     }
 
@@ -48,6 +51,30 @@ class UserCart extends React.Component {
             })
             .catch(err => console.log(err))
     }
+
+
+    handleEdit = (index) => {
+        console.log(index)
+
+        let tempCartt = this.props.cartt
+        tempCartt.splice(index, 1)
+
+        // update data in database
+        Axios.patch(`http://localhost:2000/users/${this.props.id}`, { cart: tempCartt })
+            .then(res => {
+                console.log(res.data)
+
+                // update data redux
+                Axios.get(`http://localhost:2000/users/${this.props.id}`)
+                    .then(res => {
+                        console.log(res.data)
+                        this.props.Login(res.data)
+                    })
+            })
+            .catch(err => console.log(err))
+    }
+
+
 
     handleCheckOut = () => {
         console.log('check out')
@@ -135,7 +162,10 @@ class UserCart extends React.Component {
                             onClick={() => this.handleDelete(index)}
                         >Delete</Button>
 
-                        <Button variant="contained" color="primary" onClick={() => this.setState({ selectedID: item.id })}>
+                        <Button style={{left:'10%'}}
+                        variant="contained"
+                        color="primary"
+                        onClick={() => this.handleEdit(index)}>
                             Edit
                             </Button>
 

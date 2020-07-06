@@ -45,7 +45,9 @@
       "name": "JORDAN WESTBROOK ONE TAKE",
       "category": "Men, Sport, Sneaker",
       "brand": "JORDAN",
-      "rating": [],
+      "rating": [
+        5
+      ],
       "colour": "WHITE/WHITE-BLACK-RAGE GREEN",
       "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
       "price": 1500000,
@@ -530,16 +532,7 @@
       "password": "@lee0510",
       "role": "user",
       "id": 3,
-      "cart": [
-        {
-          "name": "VANS UA ERA (MIX & MATCH)",
-          "brand": "VANS",
-          "color": "cadmium yellow/tidepool",
-          "size": 38,
-          "qty": 1,
-          "total": 678956
-        }
-      ]
+      "cart": []
     },
     {
       "username": "hiya",
@@ -554,6 +547,25 @@
       "email": "siapa",
       "password": "siapa",
       "role": "user",
+      "cart": [
+        {
+          "id": 2,
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "brand": "JORDAN",
+          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
+          "size": 40,
+          "qty": 2,
+          "total": 3000000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+          ]
+        }
+      ],
       "id": 5
     },
     {
@@ -563,77 +575,85 @@
       "role": "user",
       "cart": [],
       "id": 6
+    },
+    {
+      "username": "hiyaa",
+      "email": "hiyaa",
+      "password": "hiyaa",
+      "role": "user",
+      "cart": [],
+      "id": 7
     }
   ],
   "transaction_history": [
     {
-      "userID": 3,
-      "date": "7/1/2020, 12:01:35 PM",
-      "total": 3023956,
+      "userID": 4,
+      "date": "7/4/2020, 12:30:41 AM",
+      "total": 2500000,
       "products": [
         {
-          "name": "VANS UA ERA (MIX & MATCH)",
-          "brand": "VANS",
-          "color": "cadmium yellow/tidepool",
-          "size": 41,
-          "qty": 1,
-          "total": 678956
-        },
-        {
-          "name": "NIKE W NIKE REACT ELEMENT 55",
+          "name": "NIKE AIR ZOOM-TYPE",
           "brand": "NIKE",
-          "color": "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
-          "size": 41,
+          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "size": 38,
           "qty": 1,
-          "total": 2345000
+          "total": 2500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         }
       ],
       "id": 1
     },
     {
       "userID": 4,
-      "date": "7/1/2020, 9:17:40 PM",
-      "total": 22638950,
+      "date": "7/4/2020, 12:53:56 AM",
+      "total": 12840000,
       "products": [
         {
           "name": "NIKE AIR ZOOM-TYPE",
           "brand": "NIKE",
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 1,
-          "total": 2500000
-        },
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 1,
-          "total": 2500000
-        },
-        {
-          "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
-          "brand": "NIKE",
-          "color": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
           "size": 38,
           "qty": 3,
-          "total": 2638950
+          "total": 7500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         },
         {
-          "name": "NIKE AIR ZOOM-TYPE",
+          "name": "NIKE KYRIE 6",
           "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 40,
-          "qty": 6,
-          "total": 15000000
+          "color": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+          "size": 38,
+          "qty": 3,
+          "total": 5340000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-6.jpg"
+          ]
         }
       ],
       "id": 2
     },
     {
       "userID": 4,
-      "date": "7/1/2020, 9:20:58 PM",
-      "total": 12500000,
+      "date": "7/4/2020, 12:53:56 AM",
+      "total": 12840000,
       "products": [
         {
           "name": "NIKE AIR ZOOM-TYPE",
@@ -641,22 +661,150 @@
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
           "size": 38,
           "qty": 3,
-          "total": 7500000
+          "total": 7500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         },
         {
-          "name": "NIKE AIR ZOOM-TYPE",
+          "name": "NIKE KYRIE 6",
           "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 2,
-          "total": 5000000
+          "color": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+          "size": 38,
+          "qty": 3,
+          "total": 5340000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-6.jpg"
+          ]
         }
       ],
       "id": 3
     },
     {
+      "userID": 5,
+      "date": "7/4/2020, 1:34:38 AM",
+      "total": 9936500,
+      "products": [
+        {
+          "name": "NIKE W AIR MAX 90",
+          "brand": "NIKE",
+          "color": "WHITE/PARTICLE GREY-ROSE-BLACK",
+          "size": 38,
+          "qty": 5,
+          "total": 9936500,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-6.jpg"
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
       "userID": 4,
-      "date": "7/1/2020, 9:35:42 PM",
+      "date": "7/5/2020, 10:35:34 PM",
+      "total": 14404862,
+      "products": [
+        {
+          "name": "NIKE AIR ZOOM-TYPE",
+          "brand": "NIKE",
+          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "size": 38,
+          "qty": 3,
+          "total": 7500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
+        },
+        {
+          "name": "VANS UA ERA (MIX & MATCH)",
+          "brand": "VANS",
+          "color": "cadmium yellow/tidepool",
+          "size": 38,
+          "qty": 2,
+          "total": 1357912,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/vans-UA_Era_Mix__Match-cadmium_yellow_tidepool-6.jpg"
+          ]
+        },
+        {
+          "name": "JORDAN AIR JORDAN 14 RETRO",
+          "brand": "JORDAN",
+          "color": "BLACK/GYM RED-WHITE-OFF WHITE",
+          "size": 40,
+          "qty": 1,
+          "total": 2680000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-6.jpg"
+          ]
+        },
+        {
+          "name": "NIKE W AIR MAX 90",
+          "brand": "NIKE",
+          "color": "WHITE/PARTICLE GREY-ROSE-BLACK",
+          "size": 39,
+          "qty": 1,
+          "total": 1987300,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-6.jpg"
+          ]
+        },
+        {
+          "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
+          "brand": "NIKE",
+          "color": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
+          "size": 39,
+          "qty": 1,
+          "total": 879650,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-6.jpg"
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userID": 4,
+      "date": "7/5/2020, 10:45:00 PM",
       "total": 2500000,
       "products": [
         {
@@ -665,234 +813,292 @@
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
           "size": 39,
           "qty": 1,
-          "total": 2500000
-        }
-      ],
-      "id": 4
-    },
-    {
-      "userID": 4,
-      "date": "7/2/2020, 12:28:56 AM",
-      "total": 15000000,
-      "products": [
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 40,
-          "qty": 3,
-          "total": 7500000
-        },
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 3,
-          "total": 7500000
-        }
-      ],
-      "id": 5
-    },
-    {
-      "userID": 4,
-      "date": "7/2/2020, 12:28:56 AM",
-      "total": 15000000,
-      "products": [
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 40,
-          "qty": 3,
-          "total": 7500000
-        },
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 3,
-          "total": 7500000
+          "total": 2500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         }
       ],
       "id": 6
     },
     {
       "userID": 4,
-      "date": "7/2/2020, 12:48:28 AM",
-      "total": 7500000,
+      "date": "7/5/2020, 11:04:41 PM",
+      "total": 2500000,
       "products": [
         {
           "name": "NIKE AIR ZOOM-TYPE",
           "brand": "NIKE",
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
           "size": 38,
-          "qty": 3,
-          "total": 7500000
+          "qty": 1,
+          "total": 2500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         }
       ],
       "id": 7
     },
     {
       "userID": 4,
-      "date": "7/2/2020, 9:28:59 AM",
-      "total": 5000000,
+      "date": "7/5/2020, 11:56:14 PM",
+      "total": 2500000,
       "products": [
         {
+          "id": 1,
           "name": "NIKE AIR ZOOM-TYPE",
           "brand": "NIKE",
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 39,
-          "qty": 2,
-          "total": 5000000
+          "size": 38,
+          "qty": 1,
+          "total": 2500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         }
       ],
       "id": 8
     },
     {
       "userID": 4,
-      "date": "7/2/2020, 10:44:01 PM",
-      "total": 7500000,
+      "date": "7/5/2020, 11:56:51 PM",
+      "total": 1500000,
       "products": [
         {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "id": 2,
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "brand": "JORDAN",
+          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
           "size": 38,
-          "qty": 3,
-          "total": 7500000
+          "qty": 1,
+          "total": 1500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+          ]
         }
       ],
       "id": 9
     },
     {
-      "userID": 6,
-      "date": "7/2/2020, 11:04:38 PM",
-      "total": 17500000,
+      "userID": 4,
+      "date": "7/6/2020, 12:01:12 AM",
+      "total": 7120000,
       "products": [
         {
-          "name": "NIKE AIR ZOOM-TYPE",
+          "id": 3,
+          "name": "NIKE KYRIE 6",
           "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "color": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
           "size": 38,
-          "qty": 7,
-          "total": 17500000
+          "qty": 4,
+          "total": 7120000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-6.jpg"
+          ]
         }
       ],
       "id": 10
     },
     {
-      "userID": 6,
-      "date": "7/2/2020, 11:05:25 PM",
-      "total": 7500000,
+      "userID": 4,
+      "date": "7/6/2020, 12:03:12 AM",
+      "total": 4500000,
       "products": [
         {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "id": 2,
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "brand": "JORDAN",
+          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
           "size": 38,
           "qty": 3,
-          "total": 7500000
+          "total": 4500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+          ]
         }
       ],
       "id": 11
     },
     {
-      "userID": 6,
-      "date": "7/2/2020, 11:07:07 PM",
-      "total": 10000000,
+      "userID": 4,
+      "date": "7/6/2020, 12:04:17 AM",
+      "total": 2172000,
       "products": [
         {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "id": 10,
+          "name": "PLEASURES UTOPIA CROCS BY PLEASURES",
+          "brand": "PLEASURES",
+          "color": "BLACK",
           "size": 38,
           "qty": 4,
-          "total": 10000000
+          "total": 2172000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Utopia_Crocs_by_PLEASURES-Black-6.jpg"
+          ]
         }
       ],
       "id": 12
     },
     {
-      "userID": 6,
-      "date": "7/2/2020, 11:07:58 PM",
-      "total": 3518600,
+      "userID": 4,
+      "date": "7/6/2020, 12:04:56 AM",
+      "total": 8040000,
       "products": [
         {
-          "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
-          "brand": "NIKE",
-          "color": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
-          "size": 40,
-          "qty": 4,
-          "total": 3518600
+          "id": 4,
+          "name": "JORDAN AIR JORDAN 14 RETRO",
+          "brand": "JORDAN",
+          "color": "BLACK/GYM RED-WHITE-OFF WHITE",
+          "size": 38,
+          "qty": 3,
+          "total": 8040000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-6.jpg"
+          ]
         }
       ],
       "id": 13
     },
     {
       "userID": 4,
-      "date": "7/2/2020, 11:09:44 PM",
-      "total": 27500000,
+      "date": "7/6/2020, 12:06:42 AM",
+      "total": 2345000,
       "products": [
         {
-          "name": "NIKE AIR ZOOM-TYPE",
+          "id": 5,
+          "name": "NIKE W NIKE REACT ELEMENT 55",
           "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
+          "color": "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
           "size": 38,
-          "qty": 5,
-          "total": 12500000
-        },
-        {
-          "name": "NIKE AIR ZOOM-TYPE",
-          "brand": "NIKE",
-          "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
-          "size": 38,
-          "qty": 6,
-          "total": 15000000
+          "qty": 1,
+          "total": 2345000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-6.jpg"
+          ]
         }
       ],
       "id": 14
     },
     {
-      "userID": 6,
-      "date": "7/2/2020, 11:11:00 PM",
-      "total": 6000000,
+      "userID": 4,
+      "date": "7/6/2020, 12:11:50 AM",
+      "total": 1987300,
       "products": [
         {
-          "name": "JORDAN WESTBROOK ONE TAKE",
-          "brand": "JORDAN",
-          "color": "WHITE/WHITE-BLACK-RAGE GREEN",
-          "size": 39,
-          "qty": 4,
-          "total": 6000000
+          "id": 6,
+          "name": "NIKE W AIR MAX 90",
+          "brand": "NIKE",
+          "color": "WHITE/PARTICLE GREY-ROSE-BLACK",
+          "size": 38,
+          "qty": 1,
+          "total": 1987300,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-6.jpg"
+          ]
         }
       ],
       "id": 15
     },
     {
       "userID": 4,
-      "date": "7/3/2020, 9:59:15 AM",
-      "total": 19225000,
+      "date": "7/6/2020, 12:15:46 AM",
+      "total": 2500000,
       "products": [
         {
-          "name": "NIKE W NIKE REACT ELEMENT 55",
-          "brand": "NIKE",
-          "color": "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
-          "size": 38,
-          "qty": 5,
-          "total": 11725000
-        },
-        {
+          "id": 1,
           "name": "NIKE AIR ZOOM-TYPE",
           "brand": "NIKE",
           "color": "BLACK/SUMMIT WHITE-MENTA-ORANGE TRANCE",
           "size": 38,
-          "qty": 3,
-          "total": 7500000
+          "qty": 1,
+          "total": 2500000,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/nike-AIR_ZOOM_TYPE-BLACK_SUMMIT_WHITE_MENTA_ORANGE_TRANCE-6.jpg"
+          ]
         }
       ],
       "id": 16
+    },
+    {
+      "userID": 4,
+      "date": "7/6/2020, 3:54:27 PM",
+      "total": 3518600,
+      "products": [
+        {
+          "id": 9,
+          "name": "NIKE WMNS NIKE AIR MAX 90 SLIDE",
+          "brand": "NIKE",
+          "color": "WHITE/SMOKE GREY-ROSE-LT SMOKE GREY",
+          "size": 38,
+          "qty": 4,
+          "total": 3518600,
+          "images": [
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-1.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-2.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-3.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-4.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-5.jpg",
+            "https://kickz.akamaized.net/en/media/images/p/1200/WMNS_NIKE_AIR_MAX_90_SLIDE-WHITE_SMOKE_GREY_ROSE_LT_SMOKE_GREY-6.jpg"
+          ]
+        }
+      ],
+      "id": 17
     }
   ]
 }

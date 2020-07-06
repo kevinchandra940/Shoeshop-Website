@@ -70,7 +70,9 @@ class Profile extends React.Component {
                             </div>
                             :
                             <div>
+                                <Link to='/profile' style={styles.link}>
                                 <MenuItem>Profile</MenuItem>
+                                </Link>
                                 <Link to='/cart' style={styles.link}>
                                     <MenuItem>Cart</MenuItem>
                                 </Link>

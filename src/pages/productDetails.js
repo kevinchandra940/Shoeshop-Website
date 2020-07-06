@@ -57,17 +57,20 @@ class ProductDetails extends React.Component {
         } else {
             console.log('user already login')
             let cartData = {
+                
+                id: product.id,
                 name: product.name,
                 brand: product.brand,
                 color: product.colour,
                 size: size,
                 qty: qty,
-                total: qty * product.price
+                total: qty * product.price,
+                images: product.images
             }
 
             let tempCart = this.props.cart
             tempCart.push(cartData)
-
+            
             // update user cart in database
             Axios.patch(`http://localhost:2000/users/${this.props.id}`, { cart: tempCart })
                 .then(res => {

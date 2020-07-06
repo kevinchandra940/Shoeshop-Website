@@ -19,6 +19,8 @@ import Checkbox from '@material-ui/core/Checkbox';
 import FormGroup from '@material-ui/core/FormGroup';
 import Select from '@material-ui/core/Select';
 
+
+
 const styles = {
     margin: {
         margin: "8px",
@@ -130,6 +132,9 @@ class Register extends React.Component {
         this.setState({password : e.target.value})
 
     }
+
+
+
 
 
 
@@ -294,7 +299,11 @@ class Register extends React.Component {
                         </Select>
                     </FormControl> */}
 
+
                     <FormControl component="fieldset" style={{ marginBottom: "10%", marginTop: "10%" }}>
+                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* password must min 6 character</h1>
+                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* includes number</h1>
+                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* includes special character</h1>
                         <FormGroup aria-label="position" row>
                             <FormControlLabel
 
