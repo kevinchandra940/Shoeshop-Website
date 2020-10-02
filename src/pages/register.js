@@ -44,14 +44,14 @@ class Register extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
-            visible : false,
-            numb : true, 
-            special : true,
-            min : true,
-            match : false,
-            password : '',
-            redirect : false,
-            errorUsername : false
+            visible: false,
+            numb: true,
+            special: true,
+            min: true,
+            match: false,
+            password: '',
+            redirect: false,
+            errorUsername: false
         }
     }
 
@@ -80,25 +80,25 @@ class Register extends React.Component {
         }
 
         Axios.get(`http://localhost:2000/users?username=${username}`)
-        .then(res => {
-            if(res.data.length !== 0) { // username already used
-                this.setState({errorUsername : true})
-            } else {
-                // post data
-                Axios.post('http://localhost:2000/users', {username, email, password, role : 'user', cart : []})
-                .then(res => {
-                    console.log(res.data)
-                    this.setState({redirect : true})
-                })
-                .catch(err => console.log(err))
-            }
-        })
+            .then(res => {
+                if (res.data.length !== 0) { // username already used
+                    this.setState({ errorUsername: true })
+                } else {
+                    // post data
+                    Axios.post('http://localhost:2000/users', { username, email, password, role: 'user', cart: [] })
+                        .then(res => {
+                            console.log(res.data)
+                            this.setState({ redirect: true })
+                        })
+                        .catch(err => console.log(err))
+                }
+            })
     }
 
     handlePassword = (e) => {
         // console.log(e.target.value)
         let password = e.target.value
-        
+
         // password validation
         let number = /[0-9]/
         let specialChar = /[!@#$%^&*;]/
@@ -111,25 +111,25 @@ class Register extends React.Component {
 
         //  includes number
         if (testNumber) {
-            this.setState({numb : false})
+            this.setState({ numb: false })
         } else {
-            this.setState({numb : true})
+            this.setState({ numb: true })
         }
 
         // include spceial character
         if (testSpecial) {
-            this.setState({special : false})
+            this.setState({ special: false })
         } else {
-            this.setState({special : true})
+            this.setState({ special: true })
         }
 
         if (testMin) {
-            this.setState({min : false})
+            this.setState({ min: false })
         } else {
-            this.setState({min : true})
+            this.setState({ min: true })
         }
 
-        this.setState({password : e.target.value})
+        this.setState({ password: e.target.value })
 
     }
 
@@ -145,7 +145,7 @@ class Register extends React.Component {
         const { visible, numb, special, min, match, redirect, errorUsername } = this.state
 
         if (redirect) {
-            return <Redirect to='/login'/>
+            return <Redirect to='/login' />
         }
 
         return (
@@ -301,15 +301,15 @@ class Register extends React.Component {
 
 
                     <FormControl component="fieldset" style={{ marginBottom: "10%", marginTop: "10%" }}>
-                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* password must min 6 character</h1>
-                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* includes number</h1>
-                   <h1 style={{marginBottom: '10%', fontSize:'60%'}}>* includes special character</h1>
+                        <h1 style={{ marginBottom: '10%', fontSize: '60%' }}>* password must min 6 character</h1>
+                        <h1 style={{ marginBottom: '10%', fontSize: '60%' }}>* includes number</h1>
+                        <h1 style={{ marginBottom: '10%', fontSize: '60%' }}>* includes special character</h1>
                         <FormGroup aria-label="position" row>
                             <FormControlLabel
 
                                 value="end"
                                 control={<Checkbox color="primary" />}
-                                label="By signing up, you agree to Kevin's Privacy Policy and Terms of Use."
+                                label=" "
                                 labelPlacement="end"
 
                             />
