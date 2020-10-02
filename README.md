@@ -11,7 +11,7 @@
 
 ## Feature
 
-= Login & Register (Keep Login)
+- Login & Register (Keep Login)
 - Product Detail
 - Carousell
 - Buy Product
